@@ -1,0 +1,43 @@
+{
+    "name": "EDIT CDM Library",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/edit-platform-for-cyber-taxonomy.png",
+    "tags": [
+        "api provider",
+        "bioinformatics",
+        "have api",
+        "profile",
+        "taxonomies"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/edit-cdm-library\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EDIT CDM Library",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/edit-platform-for-cyber-taxonomy.png",
+            "humanURL": "http:\/\/wp5.e-taxonomy.eu\/cdmlib\/rest-api.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/edit-cdm-library-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/edit-cdm-library-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/wp5.e-taxonomy.eu\/cdmlib\/rest-api.html"
+        }
+    ]
+}
